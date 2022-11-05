@@ -1,19 +1,18 @@
-# GenFactory.ai - Engineering Team
+# GenFactory.io - Engineering Team
 
 ---
 
-This repository contains the source code for the GenFactory.ai Engineering Team projects.
+This is the official group-repository for GenFactory Engineering projects.
 
 ---
-
-## Projects
-
-The GenFactory engineering team works with a variety of communities in the AI artwork space, including the Unstable Diffusion community from which we originated. We work with high-level content platforms to help them integrate AI artwork to create exciting new user experiences. We also work with artists to help them create AI artwork and to help them sell their artwork on the platforms.
 
 ### Goal
 
 > To create a new art form that is accessible to everyone while ensuring the power of AI is not abused, but instead made available to everyone.
 
-### Contributing
+## Projects
 
-Are you a coder, engineer, DevOps, MLOps or Data Scientist? We are looking for people to help us build the future of AI art. If you are interested in contributing, please reach out to us on [Discord](https://discord.gg/UnstableDiffusion).
+1. API - Marrying together a wide variety of interconnected AI content into a robust API ready for any front-end.
+2. Infrastructure - A rapid-scaling and high-availability back-end designed to handle the rapid spin-up times required for inference requests.
+3. Moderation - Multiple-mode content interrogation both pre- and post-inference using traditional and ML techniques so content always abides clients' TOS.
+4. Community support - Our team believes that everyone, everywhere, should have free and _meaningful_ access to ML and AI technologies, not just the already powerful few.
